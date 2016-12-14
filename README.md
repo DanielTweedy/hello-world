@@ -1,14 +1,18 @@
 # hello-world
-Obligatory hello world reference for learning about repositories.
+Obligatory hello world reference update for learning about repositories, issues, projects, and other stuff.
 
-Hello, I am Daniel "MelBrooksKA" from Tucson Arizona, United States.
+Hello, I am Daniel "MelBrooksKA" Tweedy from Tucson, Arizona.
+
 I am a person who does person-y things with other peoples, plants, animals, and inanimate objects, not the least of which includes computers.
-I am an aspiring Computer Programmer who is currently studying in college for a computer science degree.
 
-Programming Languages I Work with:
-Java
-Bash
-C - learning as of writting this
+I am an aspiring programmer currently working on a BS in Computer Science at the University of Arizona.
 
-Programming Languages I know and might eventually learn:
-Python, C#, html, CSS, JavaScript, and Haskell
+Programming languages I work with:
+- Java
+- Bash
+- C
+- HTML, CSS, and JavaScript
+
+Programming languages I know about and might eventually learn:
+
+Python, C#, Haskell, Ruby, Sinatra, Prolog, LISP, MySQL, Fortran, COBOL, Assembly, and Perl.
